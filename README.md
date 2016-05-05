@@ -1,3 +1,7 @@
+**NOTE: THIS PROJECT IS NO LONGER ACTIVELY MAINTAINED. THE MULTITHREADED WEBDAV IMPLEMENTATION IS WORRTH STUDING THOUGH, ALBEIT MICROSOFT (WHO ELSE)) NEVER PLAYED NICE WITH WEBDAV. https://github.com/mbk/CloudDrive/blob/master/src/clouddrive/src/main/scala/utils/Utils.scala MIGHT HAVE SOME NUGGETS TOO**
+
+
+
 Virtual CloudDrive
 ==========
 
